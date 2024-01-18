@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anuragkr9
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning Flask, web Development
+- 🌱 I’m currently working with python, Flask, PostgreSql, RESTapis, AWS etc
 - 💞️ I’m looking to collaborate on flask project
 - 📫 How to reach me anurag.k@cuemath.com
 
